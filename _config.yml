@@ -224,6 +224,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  materials:
+    output: true
+    permalink: /:collection/:path/
   resource:
     output: true
     permalink: /:collection/:path/
