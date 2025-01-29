@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 collection: resource
-type: ""
+type: "resource"
 permalink: /resource/resource
 
 ---
