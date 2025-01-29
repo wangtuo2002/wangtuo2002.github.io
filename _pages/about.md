@@ -11,9 +11,23 @@ redirect_from:
 
 I am currently a PhD student at the [Institute of Computational Mathematics and Scientific/Engineering Computing](https://icmsec.cc.ac.cn/), [Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), [Chinese Academy of Sciences](https://www.cas.ac.cn/). I graduated from the [School of Mathematics of Jilin University](https://math.jlu.edu.cn/) in 2024 with a B.S. degree in Mathematics and Applied Mathematics. My research interests include log-concave sampling, optimization, optimal transport and stochastic analysis.
 
-I am currently reading the book *Brownian Motion, Martingales, and Stochastic Calculus* by Jean-François Le Gall. If you're also reading this book, feel free to discuss with me.
+I am currently reading the book *Brownian Motion, Martingales, and Stochastic Calculus* written by Jean-François Le Gall. If you're also reading this book, feel free to discuss with me.
 
 ## Selected Awards
+| Award Name                                                                 | Year        | Institution       |
+|---------------------------------------------------------------------------|-------------|-------------------|
+| Excellent Undergraduate Graduate                                            | 2024        | Jilin University  |
+| Academic and Technological Award                                            | 2024        | Jilin University  |
+| International Genetically Engineered Machine (iGEM) Competition **Gold Medal** | 2023        | Jilin University  |
+| Wang Xianghao Scholarship                                                   | 2023        | Jilin University  |
+| National Scholarship                                                        | 2022-2023   | Jilin University  |
+| Excellent Student                                                           | 2022-2023   | Jilin University  |
+| National Undergraduate Mathematical Modeling Competition Provincial First Prize | 2022        | Jilin University  |
+| National Scholarship                                                        | 2021-2022   | Jilin University  |
+| Excellent Student                                                           | 2021-2022   | Jilin University  |
+| First-Class Scholarship                                                     | 2021-2022   | Jilin University  |
+| Excellent Student                                                           | 2020-2021   | Jilin University  |
+
 
 
 
