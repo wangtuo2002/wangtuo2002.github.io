@@ -8,8 +8,8 @@ author_profile: true
 
 ## Advanced Probabaility Theory
 ### Book Recommendations
-- 薄立军. 高等概率论. 北京.科学出版社.2023
-- 
+- 薄立军. 高等概率论. 北京：科学出版社, 2023.
+- Le Gall, Jean-François. *Measure theory, probability, and stochastic processes*. Cham: Springer, 2022.
 
 ## Stochastic Analysis
 
