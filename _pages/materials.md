@@ -13,7 +13,9 @@ author_profile: true
 - Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge university press, 2019.
 
 ### Video Recommendations
-- [Probability Theory and Stochastic Processes A Full Year Graduate Course by Todd Kemp](https://www.youtube.com/@toddkemp-probability/playlists), [corresponding homepage](https://mathweb.ucsd.edu//~tkemp/ProbabilityTube/), [textbook: Probability Tools with Examples, by Bruce Driver](https://mathweb.ucsd.edu/~tkemp/280A/Driver-Probability-Lecture-Notes.pdf)
+[Probability Theory and Stochastic Processes A Full Year Graduate Course by Todd Kemp](https://www.youtube.com/@toddkemp-probability/playlists)
+[Corresponding homepage](https://mathweb.ucsd.edu//~tkemp/ProbabilityTube/)
+[Textbook: Probability Tools with Examples, by Bruce Driver](https://mathweb.ucsd.edu/~tkemp/280A/Driver-Probability-Lecture-Notes.pdf)
 ## Stochastic Analysis
 
 ## Optimal Transport
