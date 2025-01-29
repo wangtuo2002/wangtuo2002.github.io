@@ -7,7 +7,13 @@ author_profile: true
 
 # Books
 
-## Stochastic Analysis
+## Stochastic Analysis and Stochastic Differential Equations
+
+## Optimal Transport
+
+## Log-concave Sampling
+
+## Functional Analysis
 
 
 # Notes
