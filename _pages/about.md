@@ -21,7 +21,7 @@ I am currently reading the book *Brownian Motion, Martingales, and Stochastic Ca
 - Wang Xianghao Scholarship, Jilin University, 2023
 - National Scholarship, 2022-2023
 - Outstanding Student of Jilin University, 2022-2023
-- Provincial First Prize, National College Student Mathematical Modeling Competition, Jilin University, 2022
+- First Prize of Jilin Province, China Undergraduate Mathematical Contest in Modeling, 2022
 - National Scholarship, 2021-2022
 - Outstanding Student of Jilin University, 2021-2022
 - First-Class Scholarship, Jilin University, 2021-2022
