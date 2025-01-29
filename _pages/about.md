@@ -13,6 +13,8 @@ I am currently a PhD student at the [Institute of Computational Mathematics and 
 
 I am currently reading the book *Brownian Motion, Martingales, and Stochastic Calculus* written by Jean-François Le Gall. If you want to read this book with me, feel free to contact me.
 
+**Email:** wangtuo1020@outlook.com
+
 ## Selected Awards
 
 - Outstanding Undergraduate Graduate of Jilin University, 2024
