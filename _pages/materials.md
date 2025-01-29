@@ -9,8 +9,8 @@ author_profile: true
 ## Advanced Probabaility Theory
 ### Book Recommendations
 - 薄立军. 高等概率论. 北京：科学出版社, 2023.
-- Le Gall, Jean-François. *Measure theory, probability, and stochastic processes*. Cham: Springer, 2022. [Download PDF]()
-- Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge university press, 2019. [Download PDF]()
+- Le Gall, Jean-François. *Measure theory, probability, and stochastic processes*. Cham: Springer, 2022. [Download PDF](https://i.4cdn.org/sci/1735027383598607.pdf)
+- Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge university press, 2019. [Download PDF](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
 
 ### Video Recommendations
 [Probability Theory and Stochastic Processes A Full Year Graduate Course by Todd Kemp](https://www.youtube.com/@toddkemp-probability/playlists)
@@ -21,7 +21,7 @@ author_profile: true
 
 ## Stochastic Analysis
 ### Book Recommendations
-- Le Gall, Jean-François. *Brownian motion, martingales, and stochastic calculus*. Springer International Publishing Switzerland, 2016.
+- Le Gall, Jean-François. *Brownian motion, martingales, and stochastic calculus*. Springer International Publishing Switzerland, 2016. [Download PDF](http://eprints.stta.ac.id/198/1/2016_Book_BrownianMotionMartingalesAndSt.pdf)
 - Revuz, Daniel, and Marc Yor. *Continuous martingales and Brownian motion*. Vol. 293. Springer Science & Business Media, 2013.
 
 ## Optimal Transport
@@ -33,6 +33,8 @@ author_profile: true
 [Optimal Transport by Brittany Hamfeldt](https://youtu.be/kjOBJP7gglw?si=BW3gy7oiiXvE-vRw)
 
 ## Log-concave Sampling
+### Book Recommendations
+- Sinho Chewi, *Log-Concave Sampling*. (Unfinished Draft) [Download PDF](https://chewisinho.github.io/main.pdf)
 
 ## Functional Analysis
 
