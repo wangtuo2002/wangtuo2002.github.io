@@ -1,7 +1,7 @@
 ---
 title: "Resources"
-collection: resources
-type: "Undergraduate course"
+collection: resource
+type: ""
 permalink: /resource/resource
 
 ---
