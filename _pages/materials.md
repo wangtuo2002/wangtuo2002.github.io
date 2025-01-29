@@ -8,7 +8,7 @@ author_profile: true
 
 # Advanced Probabaility Theory
 
-# Stochastic Analysis and Stochastic Differential Equations
+# Stochastic Analysis
 
 # Optimal Transport
 
