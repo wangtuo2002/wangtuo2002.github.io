@@ -29,7 +29,7 @@ I am currently reading the book *Brownian Motion, Martingales, and Stochastic Ca
 - First Prize of Jilin Province, China Undergraduate Mathematical Contest in Modeling, 2022
 - National Scholarship, 2021-2022
 - Outstanding Student of Jilin University, 2021-2022
-- First-Class Scholarship of Jilin University, 2021-2022
+- First-Class Scholarship of Jilin University, 2020-2021
 - Outstanding Student of Jilin University, 2020-2021
 
 
