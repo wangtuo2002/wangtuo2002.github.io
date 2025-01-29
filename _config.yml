@@ -22,11 +22,11 @@ repository               : "tuowang2002/tuowang2002.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Tuo Wang"
+  pronouns         : "he" # example: "she/her"  
+  bio              : 
   location         : "Beijing, China"
-  employer         : "Academy of Mathematics and Systems Science, Chinese Academy of Sciences"
+  employer         : "AMSS, CAS"
   uri              : # URL
   email            : "wangtuo1020@outlook.com" 
 
