@@ -9,8 +9,8 @@ author_profile: true
 ## Advanced Probabaility Theory
 ### Book Recommendations
 - 薄立军. 高等概率论. 北京：科学出版社, 2023.
-- Le Gall, Jean-François. *Measure theory, probability, and stochastic processes*. Cham: Springer, 2022.
-- Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge university press, 2019.
+- Le Gall, Jean-François. *Measure theory, probability, and stochastic processes*. Cham: Springer, 2022. [Download PDF]()
+- Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge university press, 2019. [Download PDF]()
 
 ### Video Recommendations
 [Probability Theory and Stochastic Processes A Full Year Graduate Course by Todd Kemp](https://www.youtube.com/@toddkemp-probability/playlists)
@@ -26,8 +26,9 @@ author_profile: true
 
 ## Optimal Transport
 ### Book Recommendations
-- Thorpe, Matthew. *Introduction to optimal transport*. Notes of Course at University of Cambridge (2018).
-- Santambrogio, Filippo. *Optimal transport for applied mathematicians*. Birkäuser, NY 55.58-63 (2015): 94.
+- Thorpe, Matthew. *Introduction to optimal transport*. Notes of Course at University of Cambridge (2018). [Download PDF](http://www.damtp.cam.ac.uk/research/cia/files/teaching/Optimal_Transport_Notes.pdf)
+- Santambrogio, Filippo. *Optimal transport for applied mathematicians*. Birkäuser, NY 55.58-63 (2015): 94. [Download PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=413028c564bdf7ae139dccd4edab06154193643f)
+
 ### Video Recommendations
 [Optimal Transport by Brittany Hamfeldt](https://youtu.be/kjOBJP7gglw?si=BW3gy7oiiXvE-vRw)
 
