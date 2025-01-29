@@ -15,17 +15,18 @@ I am currently reading the book *Brownian Motion, Martingales, and Stochastic Ca
 
 ## Selected Awards
 
-- Jilin University Excellent Undergraduate Graduate, 2024
-- Jilin University Academic and Technological Award, 2024
-- International Genetically Engineered Machine (iGEM) Competition **Gold Medal**, 2023
-- Jilin University Wang Xianghao Scholarship, 2023
+- Excellent Undergraduate Graduate, Jilin University, 2024
+- Academic and Technological Award, Jilin University, 2024
+- Gold Medal, International Genetically Engineered Machine (iGEM) Competition, 2023
+- Wang Xianghao Scholarship, Jilin University, 2023
 - National Scholarship, 2022-2023
-- Jilin University Excellent Student, 2022-2023
-- National Undergraduate Mathematical Modeling Competition Provincial First Prize, 2022
+- Excellent Student, Jilin University, 2022-2023
+- Provincial First Prize, National Undergraduate Mathematical Modeling Competition, Jilin University, 2022
 - National Scholarship, 2021-2022
-- Jilin University Excellent Student, 2021-2022
-- Jilin University First-Class Scholarship, 2021-2022
-- Jilin University Excellent Student, 2020-2021
+- Excellent Student, Jilin University, 2021-2022
+- First-Class Scholarship, Jilin University, 2021-2022
+- Excellent Student, Jilin University, 2020-2021
+
 
 
 
