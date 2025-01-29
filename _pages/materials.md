@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-# Advanced Probabaility Theory
+## Advanced Probabaility Theory
 
-# Stochastic Analysis
+## Stochastic Analysis
 
-# Optimal Transport
+## Optimal Transport
 
-# Log-concave Sampling
+## Log-concave Sampling
 
-# Functional Analysis
+## Functional Analysis
 
 
 
