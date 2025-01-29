@@ -16,8 +16,11 @@ author_profile: true
 [Probability Theory and Stochastic Processes A Full Year Graduate Course by Todd Kemp](https://www.youtube.com/@toddkemp-probability/playlists)
 [Corresponding homepage](https://mathweb.ucsd.edu//~tkemp/ProbabilityTube/)
 [Textbook: Probability Tools with Examples, by Bruce Driver](https://mathweb.ucsd.edu/~tkemp/280A/Driver-Probability-Lecture-Notes.pdf)
-## Stochastic Analysis
 
+## Stochastic Analysis
+### Book Recommendations
+- Le Gall, Jean-François. *Brownian motion, martingales, and stochastic calculus*. Springer International Publishing Switzerland, 2016.
+- Revuz, Daniel, and Marc Yor. *Continuous martingales and Brownian motion*. Vol. 293. Springer Science & Business Media, 2013.
 ## Optimal Transport
 
 ## Log-concave Sampling
