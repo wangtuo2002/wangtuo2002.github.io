@@ -5,21 +5,17 @@ permalink: /materials/
 author_profile: true
 ---
 
-# Books Recommendations
 
-## Advanced Probabaility Theory
+# Advanced Probabaility Theory
 
-## Stochastic Analysis and Stochastic Differential Equations
+# Stochastic Analysis and Stochastic Differential Equations
 
-## Optimal Transport
+# Optimal Transport
 
-## Log-concave Sampling
+# Log-concave Sampling
 
-## Functional Analysis
+# Functional Analysis
 
-# Videos
-
-# Notes
 
 
 
