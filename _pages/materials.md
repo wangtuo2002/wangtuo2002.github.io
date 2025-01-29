@@ -10,7 +10,7 @@ author_profile: true
 ### Book Recommendations
 - 薄立军. 高等概率论. 北京：科学出版社, 2023.
 - Le Gall, Jean-François. *Measure theory, probability, and stochastic processes*. Cham: Springer, 2022. [Download PDF](https://i.4cdn.org/sci/1735027383598607.pdf)
-- Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge university press, 2019. [Download PDF](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
+- Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge University Press, 2019. [Download PDF](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
 
 ### Video Recommendations
 [Probability Theory and Stochastic Processes A Full Year Graduate Course by Todd Kemp](https://www.youtube.com/@toddkemp-probability/playlists)
@@ -37,7 +37,7 @@ author_profile: true
 - Sinho Chewi, *Log-Concave Sampling*. (Unfinished Draft) [Download PDF](https://chewisinho.github.io/main.pdf)
 
 ## Functional Analysis
-
+- Bobrowski, Adam. *Functional analysis for probability and stochastic processes: an introduction*. Cambridge University Press, 2005.
 
 
 
