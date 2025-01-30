@@ -41,5 +41,7 @@ author_profile: true
 - Garling, David JH. *Analysis on Polish spaces and an introduction to optimal transportation*. Vol. 89. Cambridge University Press, 2018.
 - Bobrowski, Adam. *Functional analysis for probability and stochastic processes: an introduction*. Cambridge University Press, 2005.
 
-
+## Convex Analysis and Optimization
+### Book Recommendations
+- Mordukhovich, Boris Sholimovich, and Nguyen Mau Nam. *An easy path to convex analysis and applications*. Williston: Morgan & Claypool, 2014.
 
