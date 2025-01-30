@@ -43,5 +43,5 @@ author_profile: true
 
 ## Convex Analysis and Optimization
 ### Book Recommendations
-- Mordukhovich, Boris Sholimovich, and Nguyen Mau Nam. *An easy path to convex analysis and applications*. Williston: Morgan & Claypool, 2014.
+- Mordukhovich, Boris Sholimovich, and Nguyen Mau Nam. *An easy path to convex analysis and applications*. Williston: Morgan & Claypool, 2014. [Download PDF](https://people.scs.carleton.ca/~bertossi/dmbi/material/Convex%20Analysis.pdf)
 
