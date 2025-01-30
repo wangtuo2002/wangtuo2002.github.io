@@ -38,6 +38,7 @@ author_profile: true
 
 ## Functional Analysis
 ### Book Recommendations
+- Garling, David JH. *Analysis on Polish spaces and an introduction to optimal transportation*. Vol. 89. Cambridge University Press, 2018.
 - Bobrowski, Adam. *Functional analysis for probability and stochastic processes: an introduction*. Cambridge University Press, 2005.
 
 
