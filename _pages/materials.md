@@ -37,6 +37,7 @@ author_profile: true
 - Sinho Chewi, *Log-Concave Sampling*. (Unfinished Draft) [Download PDF](https://chewisinho.github.io/main.pdf)
 
 ## Functional Analysis
+### Book Recommendations
 - Bobrowski, Adam. *Functional analysis for probability and stochastic processes: an introduction*. Cambridge University Press, 2005.
 
 
