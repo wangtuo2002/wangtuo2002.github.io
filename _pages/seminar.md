@@ -5,6 +5,8 @@ permalink: /seminar/
 author_profile: true
 ---
 
+# Seminar for Sampling (2025 Spring)
+
+## Syllabus
 
 
-test
