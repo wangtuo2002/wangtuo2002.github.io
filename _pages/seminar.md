@@ -34,7 +34,7 @@ Email: wangtuo1020@outlook.com
 
 [5] Durrett, Rick. *Probability: theory and examples*. Vol. 49. Cambridge University Press, 2019.
 
-#### Part I:  Stochastic Differential Equations
+### Part I:  Stochastic Differential Equations
 
 |    Time    |                   Topic                    |                           Video                           |                        Notes                         |
 | :--------: | :----------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------: |
