@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>每日股票交易盈亏记录</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    h2 {
+      text-align: center;
+      color: #2c3e50;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 5px;
+      margin-top: 60px;
+    }
+    h3 {
+      margin-bottom: 10px;
+      color: #2980b9;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      background: #fff;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    th, td {
+      padding: 12px;
+      text-align: center;
+      border-bottom: 1px solid #eee;
+    }
+    th {
+      background-color: #3498db;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+    .summary {
+      font-weight: bold;
+      color: #0e0e0f;
+      text-align: right;
+      margin-top: -10px;
+      margin-bottom: 30px;
+    }
+    .highlight-row {
+      background-color: #ffeaa7 !important;
+    }
+    .update-time {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      margin-bottom: 20px;
+    }
+    .profit {
+      color: red;
+      font-weight: bold;
+    }
+    .loss {
+      color: green;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>股票交易盈亏记录</h1>
+  <div class="update-time">更新日期：2025-06-22</div>
+
+  <section>
+    <h2>当前股票持仓情况</h2>
+    <h3>港股持仓</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>股票名称</th>
+          <th>持仓数量</th>
+          <th>买入均价</th>
+          <th>当前价格</th>
+          <th>浮动盈亏</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>基石药业-B(02616)</td>
+          <td>1000</td>
+          <td>2.79</td>
+          <td>4.10</td>
+          <td class="profit">+1302</td>
+        </tr>
+        <tr>
+            <td>信达生物(01801)</td>
+            <td>5</td>
+            <td>52.05</td>
+            <td>77.70</td>
+            <td class="profit">+125.24</td>
+          </tr>
+          <tr>
+            <td>汇丰控股(00005)</td>
+            <td>5</td>
+            <td>91.00</td>
+            <td>92.25</td>
+            <td class="profit">+3.21</td>
+          </tr>
+      </tbody>
+    </table>
+    <div class="summary">本月持仓盈亏合计：<span class="profit">+1430.220 HKD</span></div>
+
+    <h3>美股持仓</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>股票名称</th>
+          <th>持仓数量</th>
+          <th>买入均价</th>
+          <th>当前价格</th>
+          <th>浮动盈亏</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>QBTS</td>
+          <td>6</td>
+          <td>18.68</td>
+          <td>15.65</td>
+          <td class="loss">-18.18</td>
+        </tr>
+        <tr>
+          <td>CTMX</td>
+          <td>23</td>
+          <td>2.02</td>
+          <td>2.32</td>
+          <td class="profit">+6.86</td>
+        </tr>
+        <tr>
+            <td>PMAX</td>
+            <td>2</td>
+            <td>0.71</td>
+            <td>0.39</td>
+            <td class="loss">-0.66</td>
+          </tr>
+      </tbody>
+    </table>
+    <div class="summary">本月持仓盈亏合计：<span class="loss">-10.66 USD</span></div>
+
+
+
+  </section>
+
+  <section>
+    <h2>2025年6月</h2>
+    <h3>港股交易</h3>
+    <table>
+        <thead>
+          <tr>
+            <th>日期</th>
+            <th>股票名称</th>
+            <th>买入数量</th>
+            <th>买入价格</th>
+            <th>卖出数量</th>
+            <th>卖出价格</th>
+            <th>盈亏金额</th>
+            
+            <th>备注</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025-06-19</td>
+            <td>蜜雪集团</td>
+            <td>2</td>
+            <td>517.5</td>
+            <td>1</td>
+            <td>501.5</td>
+            <td class="loss">-16</td>
+            <td>2025-05-19买入</td>
+          </tr>
+          <tr>
+            <td>2025-06-04</td>
+            <td>蜜雪集团</td>
+            <td>2</td>
+            <td>517.5</td>
+            <td>1</td>
+            <td>612.00</td>
+            <td class="profit">+94.5</td>
+            <td>2025-05-19买入</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="summary">本月已变现利润/亏损合计：<span class="profit">+78.5 HKD</span></div>
+
+    <h3>美股交易</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>日期</th>
+          <th>股票名称</th>
+          <th>买入数量</th>
+          <th>买入价格</th>
+          <th>卖出数量</th>
+          <th>卖出价格</th>
+          <th>盈亏金额</th>
+          <th>备注</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2025-06-20</td>
+          <td>CRCL</td>
+          <td>1</td>
+          <td>224.00</td>
+          <td>1</td>
+          <td>228.20</td>
+          <td class="profit">+4.20</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-18</td>
+          <td>TMDE</td>
+          <td>90</td>
+          <td>1.987</td>
+          <td>90</td>
+          <td>2.04</td>
+          <td class="profit">+4.80</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-18</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.90</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-18</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.85</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-18</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.90</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-18</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.98</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-18</td>
+          <td>TMDE</td>
+          <td>50</td>
+          <td>2.05</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-17</td>
+          <td>RGC</td>
+          <td>1</td>
+          <td>76.00</td>
+          <td>1</td>
+          <td>76.20</td>
+          <td class="profit">+0.20</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-17</td>
+          <td>RGC</td>
+          <td>1</td>
+          <td>72.00</td>
+          <td>1</td>
+          <td>72.50</td>
+          <td class="profit">+0.50</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-17</td>
+          <td>TMDE</td>
+          <td>60</td>
+          <td>2.045</td>
+          <td>60</td>
+          <td>2.10</td>
+          <td class="profit">+3.30</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-17</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.92</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-17</td>
+          <td>TMDE</td>
+          <td>50</td>
+          <td>2.07</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>90</td>
+          <td>1.995</td>
+          <td>90</td>
+          <td>2.05</td>
+          <td class="profit">+4.90</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.88</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.86</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.94</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.98</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>50</td>
+          <td>2.06</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>50</td>
+          <td>2.05</td>
+          <td>50</td>
+          <td>2.09</td>
+          <td class="profit">+2.00</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-16</td>
+          <td>TMDE</td>
+          <td>50</td>
+          <td>2.08</td>
+          <td>50</td>
+          <td>2.12</td>
+          <td class="profit">+2.00</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-13</td>
+          <td>TMDE</td>
+          <td>20</td>
+          <td>1.53</td>
+          <td>20</td>
+          <td>1.60</td>
+          <td class="profit">+1.40</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-13</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.48</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-13</td>
+          <td>TMDE</td>
+          <td>10</td>
+          <td>1.58</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-13</td>
+          <td>TMDE</td>
+          <td>100</td>
+          <td>1.35</td>
+          <td>100</td>
+          <td>1.22</td>
+          <td class="loss">-11.00</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-09</td>
+          <td>KNW</td>
+          <td>50</td>
+          <td>3.17</td>
+          <td>50</td>
+          <td>3.22</td>
+          <td class="profit">+2.50</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-09</td>
+          <td>KNW</td>
+          <td>50</td>
+          <td>3.07</td>
+          <td>50</td>
+          <td>3.11</td>
+          <td class="profit">+2.00</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>KNW</td>
+          <td>100</td>
+          <td>0.80</td>
+          <td>100</td>
+          <td>0.81</td>
+          <td class="profit">+1.00</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>RGTI</td>
+          <td>10</td>
+          <td>11.59</td>
+          <td>10</td>
+          <td>11.48</td>
+          <td class="loss">-1.10</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>RGTI</td>
+          <td>10</td>
+          <td>11.60</td>
+          <td>10</td>
+          <td>11.65</td>
+          <td class="profit">+0.50</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>QBTS</td>
+          <td>10</td>
+          <td>17.85</td>
+          <td>10</td>
+          <td>17.88</td>
+          <td class="profit">+0.30</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>QBTS</td>
+          <td>10</td>
+          <td>17.70</td>
+          <td>10</td>
+          <td>17.89</td>
+          <td class="profit">+1.90</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>QBTS</td>
+          <td>10</td>
+          <td>17.70</td>
+          <td>10</td>
+          <td>17.80</td>
+          <td class="profit">+1.00</td>
+          <td>Day Trading</td>
+        </tr>
+        <tr>
+          <td>2025-06-06</td>
+          <td>CRCL</td>
+          <td>2</td>
+          <td>91.83</td>
+          <td>2</td>
+          <td>96.88</td>
+          <td class="profit">+10.11</td>
+          <td>2025-06-05买入</td>
+        </tr>
+        <tr>
+          <td>2025-06-05</td>
+          <td>CRCL</td>
+          <td>1</td>
+          <td>93</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+          <td>2025-06-05</td>
+          <td>RGTI</td>
+          <td>9</td>
+          <td>14.70</td>
+          <td>4</td>
+          <td>11.31</td>
+          <td class="loss">-13.56</td>
+          <td>2025-05-27买入</td>
+        </tr>
+        <tr>
+          <td>2025-06-05</td>
+          <td>CRCL</td>
+          <td>1</td>
+          <td>90.65</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+          <td>2025-06-05</td>
+          <td>RGTI</td>
+          <td>9</td>
+          <td>14.70</td>
+          <td>5</td>
+          <td>11.46</td>
+          <td class="loss">-16.20</td>
+          <td>2025-05-27买入</td>
+        </tr>
+        <tr>
+          <td>2025-06-05</td>
+          <td>QBTS</td>
+          <td>11</td>
+          <td>18.68</td>
+          <td>5</td>
+          <td>17.00</td>
+          <td class="loss">-8.40</td>
+          <td>2025-05-27买入</td>
+        </tr>
+        
+      </tbody>
+    </table>
+    <div class="summary">本月已变现利润/亏损合计：<span class="loss">-7.65 USD</span></div>
+  </section>
+
+  <!-- 2025/05 -->
+  <section>
+    <h2>2025年5月</h2>
+    <h3>港股交易</h3>
+    <table>
+        <thead>
+          <tr>
+            <th>日期</th>
+            <th>股票名称</th>
+            <th>买入数量</th>
+            <th>买入价格</th>
+            <th>卖出数量</th>
+            <th>卖出价格</th>
+            <th>盈亏金额</th>
+            
+            <th>备注</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025-05-19</td>
+            <td>蜜雪集团</td>
+            <td>2</td>
+            <td>517.5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+          <tr>
+            <td>2025-05-19</td>
+            <td>汇丰控股(00005)</td>
+            <td>5</td>
+            <td>91.00</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+          <tr>
+            <td>2025-05-19</td>
+            <td>信达生物(01801)</td>
+            <td>5</td>
+            <td>52.05</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+          <tr>
+            <td>2025-05-15</td>
+            <td>基石药业-B(02616)</td>
+            <td>500</td>
+            <td>2.88</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+          <tr>
+            <td>2025-05-14</td>
+            <td>基石药业-B(02616)</td>
+            <td>500</td>
+            <td>2.70</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+          
+        </tbody>
+      </table>
+      <div class="summary">本月已变现利润/亏损合计：0 HKD</div>
+
+    <h3>美股交易</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>日期</th>
+          <th>股票名称</th>
+          <th>买入数量</th>
+          <th>买入价格</th>
+          <th>卖出数量</th>
+          <th>卖出价格</th>
+          <th>盈亏金额</th>
+          <th>备注</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2025-05-27</td>
+          <td>QBTS</td>
+          <td>1</td>
+          <td>17.32</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+          <td>2025-05-27</td>
+          <td>RGTI</td>
+          <td>1</td>
+          <td>14.00</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+          <td>2025-05-27</td>
+          <td>QBTS</td>
+          <td>2</td>
+          <td>17.80</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+          <td>2025-05-27</td>
+          <td>QBTS</td>
+          <td>8</td>
+          <td>19.07</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+          <td>2025-05-27</td>
+          <td>RGTI</td>
+          <td>8</td>
+          <td>14.78</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+        <tr>
+            <td>2025-05-23</td>
+            <td>PMAX</td>
+            <td>146</td>
+            <td>0.71</td>
+            <td>144</td>
+            <td>0.80</td>
+            <td class="profit">+11.54</td>
+            <td>Day Trading</td>
+          </tr>
+        <tr>
+            <td>2025-05-15</td>
+            <td>CTMX</td>
+            <td>10</td>
+            <td>1.95</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+        <tr>
+            <td>2025-05-15</td>
+            <td>CTMX</td>
+            <td>3</td>
+            <td>2.00</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>持有</td>
+          </tr>
+        <tr>
+          <td>2025-05-14</td>
+          <td>CTMX</td>
+          <td>10</td>
+          <td>2.10</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>持有</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="summary">本月已变现利润/亏损合计：<span class="profit">+11.54 USD</span></div>
+  </section>
+</body>
+</html>
