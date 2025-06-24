@@ -14,7 +14,6 @@ I am currently a PhD student at the [State Key Laboratory of Scientific and Engi
 ## Hobbies and Interests
 I am passionate about traveling and have visited many countries and regions. I take pleasure in quietly appreciating the elegance of mathematics, constantly discovering its magical aspects. In addition, I also enjoy fish-touching, water-skiing, sleeping and eating.
 
-I am currently reading the book *Brownian Motion, Martingales, and Stochastic Calculus* written by Jean-François Le Gall. If you want to read this book with me, feel free to contact me.
 
 **Email:** wangtuo1020@outlook.com
 
